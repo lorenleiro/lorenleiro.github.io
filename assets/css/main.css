@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+p.project-context{
+	text-align: left;
+	margin: 0px
+}
+
 ol, ul {
 	list-style: none;
 }
