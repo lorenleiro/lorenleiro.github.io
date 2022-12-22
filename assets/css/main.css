@@ -42,6 +42,11 @@ ol, ul {
 	list-style: none;
 }
 
+p {
+	color: #444;
+	text-shadow: none;
+}
+
 .my-skills {
 	padding: 1rem 2rem;
 	margin-bottom: 1.5rem;
